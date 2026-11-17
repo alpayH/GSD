@@ -1,3 +1,5 @@
+> **Team project.** Original repository: [lsteno/GSD](https://github.com/lsteno/GSD). This fork is kept on my profile for reference.
+
 # GSD
 
 Code generation model fine-tuning and evaluation. This repo contains experiments with parameter-efficient fine-tuning methods and benchmarking on competitive programming problems.
